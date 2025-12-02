@@ -20,4 +20,3 @@ A JavaFX Desktop Application that uses the **Google Gemini API** to generate dyn
    - Use Maven: `mvn javafx:run`
 
 ## 📸 Screenshots
-*(You can upload a screenshot here later)*
